@@ -1,8 +1,10 @@
 # LAYOUT BASIC LEARNING ! ✨
 Basic by using html and css 😂
 <div align="center">
-    <img src="https://i.pinimg.com/originals/44/f0/02/44f002166db0c224c90703f18a659dae.gif" width="350"/>
+<!--     <img src="https://i.pinimg.com/originals/44/f0/02/44f002166db0c224c90703f18a659dae.gif" width="350"/> -->
+     <img src="https://github.com/user-attachments/assets/83bcb2c0-f485-40fe-91d8-f688980ce1db" width="600"/>
 </div>
+
 
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 
